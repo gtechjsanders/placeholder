@@ -2,6 +2,6 @@
     "name": "gtech/placeholder",
     "description": "Gtech Namespace placeholder",
     "require": {
-        "php": ">=7.4",
+        "php": ">=7.4"
     }
 }
